@@ -10,7 +10,9 @@
 # User-specific stuff:
 .idea/**/workspace.xml
 .idea/**/tasks.xml
+.idea/**/usage.statistics.xml
 .idea/dictionaries
+.idea/**/shelf
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -38,7 +40,7 @@ cmake-build-debug/
 ## Plugin-specific files:
 
 # IntelliJ
-/out/
+out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
